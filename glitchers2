@@ -1,0 +1,9 @@
+git add requirements.txt
+git commit -m "Add C:\Users\jacob\Desktop\requirements.txt"
+git push
+is this my cimmut git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/kurazyy/glitchers.git
+git push -u origin main
