@@ -1,0 +1,17 @@
+# Initialize the Git repository
+git init
+
+# Stage all files in the current directory
+git add .
+
+# Commit the changes with a message
+git commit -m "Initial commit"
+
+# Set the main branch as the default branch (if not already done)
+git branch -M main
+
+# Add the remote GitHub repository URL (replace with your actual repository URL)
+git remote add origin https://github.com/kurazyy/glitchers.git
+
+# Push the initial commit to the remote repository and set the upstream to 'main'
+git push -u origin main
